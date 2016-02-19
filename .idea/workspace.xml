@@ -4,6 +4,7 @@
     <list default="true" id="2f9e49c1-c169-4f07-8fe5-53c2b7ec689b" name="Default" comment="" />
     <ignored path="hello-world.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -548,12 +549,12 @@
       <created>1455879130512</created>
       <option name="number" value="Default" />
       <updated>1455879130512</updated>
-      <workItem from="1455879133294" duration="72000" />
+      <workItem from="1455879133294" duration="218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72000" />
+    <option name="totallyTimeSpent" value="218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="21" width="1309" height="747" extended-state="6" />
